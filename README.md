@@ -7,7 +7,7 @@ $pkg install python2
 </br>
 $pkg install git 
 </br>
-$git clone 
+$git clone https://github.com/Mrnotname/G-BRUTE.git
 </br>
 $python2 G-Brute.py
 </br>
