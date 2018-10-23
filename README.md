@@ -14,10 +14,10 @@ $python2 G-Brute.py
 </br>
 </br>
 </br>
-Ezample:
-      Wordlist: coba1.txt
-                Coba2.txt
-                Coba3.txt
+Example:</br>
+      Wordlist: coba1.txt</br>
+                Coba2.txt</br>
+                Coba3.txt</br>
                 Coba4.txt
                 </br>
 
